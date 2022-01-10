@@ -6,8 +6,19 @@
 
 - added a header elemenent
 
-- added section elements
+- added section element
+
+- added aside element
+
+- added footer element
 
 - added missing id attribute for to the search engine optimization
 
-- added alt attributes to all three pics
+- added alt attributes to all three pics and icons
+
+- added comments to html
+
+## Work on html
+
+- added comments to css
+
