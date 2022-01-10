@@ -1,13 +1,13 @@
 # homework1
 
-# Code Refactor Starter Code
+## Work on html
 
-# added name of the website to title
+- added name of the website to title
 
-# added a header elemenent
+- added a header elemenent
 
-# added section elements
+- added section elements
 
-# added missing id attribute for to the search engine optimization
+- added missing id attribute for to the search engine optimization
 
-# added alt attributes to all three pics
+- added alt attributes to all three pics
