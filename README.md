@@ -18,7 +18,9 @@
 
 - added comments to html
 
-## Work on html
+## Work on css
+
+- rearranged code
 
 - added comments to css
 

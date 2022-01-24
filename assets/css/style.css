@@ -21,11 +21,11 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+.seo {
     color: #d9dcd6;
 }
 
-.header div {
+.header ul {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -33,20 +33,34 @@ body {
     font-size: 20px;
 }
 
-.header div ul {
-    list-style-type: none;
-}
 
-.header div ul li {
-    display: inline-block;
+.header ul li {
+    display: inline;
     margin-left: 25px;
 }
 
 a {
-    color: #ffffff;
+    margin: 0 40px;
+    color: #ffffff; 
     text-decoration: none;
+    font-size: 26px;
+}
+/* Header ends*/
+
+/* Footer section starts*/
+.footer {
+    padding: 30px;
+    clear: both;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
 }
 
+.footer h2 {
+    font-size: 20px;
+}
+/* Footer section ends*/
+
+/* Section starts*/
 p {
     font-size: 16px;
 }
@@ -104,20 +118,7 @@ p {
     margin-bottom: 20px;
     font-size: 36px;
 }
-/* Header section ends*/
 
-/* Hero section starts*/
-
-.hero img{
-    width: 100%;
-    margin-bottom: 25px;
-    background-size: center;
-    background-size: cover;
-    position: relative;
-}
-/* Hero section ends*/
-
-/* class section starts*/
 .float-left {
     float: left;
     margin-right: 25px;
@@ -133,6 +134,17 @@ p {
     display: inline-block;
     margin-left: 20px;
 }
+/* Section ends */
+
+/* Hero section starts*/
+.hero img{
+    width: 100%;
+    margin-bottom: 20px;
+    background-size: cover;
+    position: relative;
+}
+/* Hero section ends*/
+
 
 /* Aside section starts*/
 .benefits {
@@ -194,16 +206,3 @@ p {
     max-width: 150px;
 }
 /* Aside section ends*/
-
-/* Footer section starts*/
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
-/* Footer section ends*/
